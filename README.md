@@ -24,3 +24,4 @@ Creates random text based on input text file and 'N' groups of words.
 ### Grammar Solver [WIP]
 ### Fractals and Graphics [WIP]
 Graphical programm that draws Sierpinski triangle, Recursive Tree and Mandelbrot set
+
